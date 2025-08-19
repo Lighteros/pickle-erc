@@ -26129,7 +26129,7 @@ const a5 = () => {
         }),
         At.jsx(yi, {
           component: "a",
-          href: "https://x.com/PickleCooking",
+          href: "https://x.com/pickleerc",
           target: "_blank",
           sx: {
             position: "absolute",
@@ -26150,7 +26150,7 @@ const a5 = () => {
         }),
         At.jsx(yi, {
           component: "a",
-          href: "https://t.me/PickleCooking",
+          href: "https://t.me/pickle_erc20",
           target: "_blank",
           sx: {
             position: "absolute",
